@@ -1,0 +1,10 @@
+{
+	"rewards": {
+		"function": "mansion:househunters"
+    },
+	"criteria": {
+		"AllMansions": {
+            "trigger": "minecraft:impossible"
+        }
+	}
+}
